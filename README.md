@@ -43,7 +43,7 @@ Clone the repository:
 
 Bash
 
-git clone [https://github.com/SENIN_GITHUB_USERNAME/AICONSTRUCT-PM.git](https://huggingface.co/spaces/HamidOmarov/AICONSTRUCT-PM)
+git clone [https://github.com/HamidOmarov/AICONSTRUCT-PM.git](https://huggingface.co/spaces/HamidOmarov/AICONSTRUCT-PM)
 cd AICONSTRUCT-PM
 Create and activate a virtual environment:
 
